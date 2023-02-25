@@ -1,2 +1,3 @@
 this is fileB
 adding line 2
+file B has some internet files
