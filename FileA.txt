@@ -1,2 +1,3 @@
 this is fileA
 changed line 2
+add 3
